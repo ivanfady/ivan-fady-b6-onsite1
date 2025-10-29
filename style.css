@@ -42,7 +42,7 @@ nav {
 /* hero */
 .hero {
   height: 90vh;
-  background-image: url("../images/headerbg.png");
+  background-image: url("images/headerbg.png");
   background-position: center;
   background-repeat: no-repeat;
 }
@@ -268,4 +268,5 @@ form button:hover {
   margin: 0 8px;
   text-decoration: none;
   font-size: 16px;
+
 }
